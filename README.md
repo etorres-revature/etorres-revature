@@ -1,16 +1,21 @@
-### Hi there 👋
+# Eric  D. Torres :sunglasses:
 
-<!--
-**etorres-revature/etorres-revature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub profile
 
-Here are some ideas to get you started:
+Hi!  I'm currently learning the MERN full Stack for web app development.  I have previously coded in the Java full stack.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have four certifications for the [PEGA](https://www.pega.com/?&utm_source=google&utm_medium=cpc&utm_campaign=Global_Brand_Exact&utm_term=pega%20systems&gloc=9025148&utm_content=pcrid%7c385502811043%7cpkw%7ckwd-299862464821%7cpmt%7ce%7cpdv%7cc%7c&gclid=Cj0KCQjwpZT5BRCdARIsAGEX0zlwEUJ1pHSIwyw83GZ1JUE6MsvC_rgS5LZ5nMBXMs6UlznUQ6ERP54aAqQ2EALw_wcB&gclsrc=aw.ds) Platform.
+
+* PEGA Certified System Architect (2/2020)
+* PEGA Senior Certified System Architect (3.2020)
+* PEGA Business Architect (4/2020)
+* PEGA Robotics System Architect (5/2020)
+
+You can verify these certifications [here](https://academy.pega.com/verify-certification?fname=eric&lname=torres).
+
+### Connect with me on social media
+
+### Lanuguages 
+
+*Updated shortly*
+
