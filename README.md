@@ -15,9 +15,9 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 ### Connect with me on social media
 
-![GitHub](./assets/github.svg) [<a align="center" alt="Eric D. Torres | GitHub" width="35p" height="35px"></a>](https://github.com/etorres-revatures/)
+<a href="https://github.com/etorres-revatures" alt="Eric D. Torres | GitHub"><img align="center" src="./assets/github.svg" height="35px" width="35px"/></a>
 
-![LinkedIn](./assets/linkedin.svg) [<a align="center" alt="Eric D. Torres | LinkedIn" width="35p" height="35px"></a>](https://www.linkedin.com/in/ericdtorres/)
+<a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img align="center" src="./assets/linkedin.svg" height="35px" width="35px"/></a>
 
 ### Lanuguages 
 
