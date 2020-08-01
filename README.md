@@ -15,6 +15,10 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 ### Connect with me on social media
 
+[<img align="center" alt="Eric D. Torres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/github.svg" />](https://github.com/etorres-revatures/)
+
+[<img align="center" alt="Eric D. Torres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ericdtorres/)
+
 ### Lanuguages 
 
 *Updated shortly*
