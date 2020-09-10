@@ -21,15 +21,18 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ### Connect with me on social media
 
-![GitHub Logo](./assets/github/github_PNG40.png)
-
 <a href="https://github.com/etorres-revatures" alt="Eric D. Torres | GitHub"><img src="./assets/github/github_PNG40.png" height="35px" width="35px"/></a>
-
-![LinkedIn logo](./assets/linkedin/linkedin.png)
 
 <a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img src="./assets/linkedin/linkedin.png" height="35px" width="35px"/></a>
 
 ### Lanuguages 
 
-*Updated shortly*
+* HTML5
+* CSS
+* BOOTSTAP 4
+* Tailwind CSS
+* JavaScript
+* jQuery
+* Moment.js
+* Chart.js
 
