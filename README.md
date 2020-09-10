@@ -24,9 +24,9 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ### Connect with me on social media
 
-<a href="https://github.com/etorres-revatures" alt="Eric D. Torres | GitHub"><img align="center" src="./assets/github/github_PNG40.png" height="35px" width="35px"/></a>
+<a href="https://github.com/etorres-revatures" alt="Eric D. Torres | GitHub"><img src="./assets/github/github_PNG40.png" height="35px" width="35px"/></a>
 
-<a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img align="center" src="./assets/linkedin/linkedin.png" height="35px" width="35px"/></a>
+<a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img src="./assets/linkedin/linkedin.png" height="35px" width="35px"/></a>
 
 ### Lanuguages 
 
