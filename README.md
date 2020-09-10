@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile
 
-I am a journeyman coder with experience coding Java, Object-Oriented Programming, SQL, JavaScript, AWS, and PEGA. Using his foundation of research skills and strong analytical problem solving abilities, he has the ability to learn any coding language quickly.
+I am a journeyman coder with experience coding Java, Object-Oriented Programming, SQL, JavaScript, HTML5, CSS, Bootstrap 4, AWS, and PEGA. Using his foundation of research skills and strong analytical problem solving abilities, he has the ability to learn any coding language quickly.
 
 My passion is learning about new coding design elements, cutting-edge coding languages, and creating logical frameworks for projects from start to finish.  
 
