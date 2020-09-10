@@ -21,27 +21,27 @@ Currently, I am honing my skills by acquiring a Certificate in Full Stack Web De
 
 This is my [portfolio of projects](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html).
 
-![PORTFOLIO screenshot](./assets/screenshots/portfolio.png)
+![PORTFOLIO screenshot](https://user-images.githubusercontent.com/59744847/92795207-d0525000-f375-11ea-92bb-d56d1f33b2bb.png)
 
 ### A FEW SAMPLE PROJECTS
 
 [PORTFOLIO EDGE](https://github.com/etorres-revature/Lucky_Mountaineers)
 
-![PORTFOLIO EDGE screenshot](./assets/screenshots/stock-app.png)
+![PORTFOLIO EDGE screenshot](https://user-images.githubusercontent.com/59744847/92795196-ce888c80-f375-11ea-93a2-2e42f5c98013.png)
 
 [Weather DashBoard](https://github.com/etorres-revature/Weather_Dashboard)
 
-![WEATHER DASHBOARD screenshot](./assets/screenshots/weather-dashboard.png)
+![WEATHER DASHBOARD screenshot](https://user-images.githubusercontent.com/59744847/92795201-cf212300-f375-11ea-9e5e-33754bf26fcb.png)
 
 [JS Code Quiz](https://github.com/etorres-revature/JavaScript_Code_Quiz_Challenge)
 
-![JS CODE QUIZ CHALLENGE screenshot](./assets/screenshots/quiz-loser.png)
+![JS CODE QUIZ CHALLENGE screenshot](https://user-images.githubusercontent.com/59744847/92795190-cd575f80-f375-11ea-88b8-fccbfe33e9b8.png)
 
 ### Connect with me on social media
 
-<a href="https://github.com/etorres-revature" alt="Eric D. Torres | GitHub"><img src="./assets/github/github_PNG40.png" height="35px" width="35px"/></a>
+<a href="https://github.com/etorres-revature" alt="Eric D. Torres | GitHub"><img src="https://user-images.githubusercontent.com/59744847/92795129-c29cca80-f375-11ea-9f74-008d87a435f2.png" height="35px" width="35px"/></a>
 
-<a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img src="./assets/linkedin/linkedin.png" height="35px" width="35px"/></a>
+<a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img src="https://user-images.githubusercontent.com/59744847/92795155-c7fa1500-f375-11ea-805c-14f3234feef8.png" height="35px" width="35px"/></a>
 
 ### Lanuguages, Framworks, Libraries, Etc.
 
