@@ -20,11 +20,13 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 Currently, I am honing my skills by acquiring a Certificate in Full Stack Web Development from the University of Texas Austin (focus on JavaScript; MERN stack).
 
+This is my [portfolio of projects](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html).
+
 ### Connect with me on social media
 
-<a href="https://github.com/etorres-revatures" alt="Eric D. Torres | GitHub"><img align="center" src="./assets/github.svg" height="35px" width="35px"/></a>
+<a href="https://github.com/etorres-revatures" alt="Eric D. Torres | GitHub"><img align="center" src="./assets/github/github_PNG40.png" height="35px" width="35px"/></a>
 
-<a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img align="center" src="./assets/linkedin.svg" height="35px" width="35px"/></a>
+<a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img align="center" src="./assets/linkedin/linkedin.png" height="35px" width="35px"/></a>
 
 ### Lanuguages 
 
