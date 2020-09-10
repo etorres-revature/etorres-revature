@@ -1,4 +1,4 @@
-# Eric  D. Torres :sunglasses:
+# :green_heart: **Eric  D. Torres** :sunglasses:
 
 ## Welcome to my GitHub profile
 
@@ -8,22 +8,22 @@ My passion is learning about new coding design elements, cutting-edge coding lan
 
 I also have the following certifications for the [PEGA](https://www.pega.com/?&utm_source=google&utm_medium=cpc&utm_campaign=Global_Brand_Exact&utm_term=pega%20systems&gloc=9025148&utm_content=pcrid%7c385502811043%7cpkw%7ckwd-299862464821%7cpmt%7ce%7cpdv%7cc%7c&gclid=Cj0KCQjwpZT5BRCdARIsAGEX0zlwEUJ1pHSIwyw83GZ1JUE6MsvC_rgS5LZ5nMBXMs6UlznUQ6ERP54aAqQ2EALw_wcB&gclsrc=aw.ds) Platform.
 
-* PEGA Certified System Architect (2/2020);
-* PEGA Senior Certified System Architect (3.2020);
-* PEGA Business Architect (4/2020);
-* PEGA Robotics System Architect (5/2020);
+* **PEGA Certified System Architect (2/2020)**;
+* **PEGA Senior Certified System Architect (3.2020)**;
+* **PEGA Business Architect (4/2020)**;
+* **PEGA Robotics System Architect (5/2020)**;
 
 You can verify these certifications [here](https://academy.pega.com/verify-certification?fname=eric&lname=torres).
 
 Currently, I am honing my skills by acquiring a Certificate in Full Stack Web Development from the University of Texas Austin (focus on JavaScript; MERN stack).
 
-## Sample Projects
+## PORTFOLIO
 
 This is my [portfolio of projects](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html).
 
 ![PORTFOLIO screenshot](https://user-images.githubusercontent.com/59744847/92795207-d0525000-f375-11ea-92bb-d56d1f33b2bb.png)
 
-### A FEW SAMPLE PROJECTS
+### :rainbow: A FEW SAMPLE PROJECTS :rainbow:
 
 [PORTFOLIO EDGE](https://github.com/etorres-revature/Lucky_Mountaineers)
 
@@ -37,20 +37,29 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ![JS CODE QUIZ CHALLENGE screenshot](https://user-images.githubusercontent.com/59744847/92795190-cd575f80-f375-11ea-88b8-fccbfe33e9b8.png)
 
-### Connect with me on social media
+### :tiger: Connect with me on social media :penguin:
 
 <a href="https://github.com/etorres-revature" alt="Eric D. Torres | GitHub"><img src="https://user-images.githubusercontent.com/59744847/92795129-c29cca80-f375-11ea-9f74-008d87a435f2.png" height="35px" width="35px"/></a>
 
 <a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img src="https://user-images.githubusercontent.com/59744847/92795155-c7fa1500-f375-11ea-805c-14f3234feef8.png" height="35px" width="35px"/></a>
 
-### Lanuguages, Framworks, Libraries, Etc.
+### :computer: Technologies Used :computer:
 
-* HTML5
-* CSS
-* BOOTSTAP 4
-* Tailwind CSS
-* JavaScript
-* jQuery
-* Moment.js
-* Chart.js
+##### * :memo: HTML5 :memo:
+##### * :art: CSS :art:
+##### * :shoe: BOOTSTAP 4 :shoe:
+##### * :cyclone: Tailwind CSS :cyclone:
+##### * :saprkler: JavaScript :sparkler:
+##### * :grey_question: jQuery :grey_question:
+##### * :hourglass: Moment.js :hourglass:
+##### * :chart_with_upwards_trend: Chart.js :chart_with_upwards_trend:
+##### * :movie_camera: HTML5 video element :movie_camera:
+##### * :speech_balloon: Web Speech API :speech_balloon:
+##### *:speech_balloon: SpeechRecognition :speech_balloon:
+
+## Author :sunglasses:
+
+Content and design created by :green_heart: Eric D. Torres :green_heart:.  
+
+The author can be reached at etorresnotary@gmail.com. 
 
