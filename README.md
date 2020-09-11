@@ -8,16 +8,16 @@ My passion is learning about new coding design elements, cutting-edge coding lan
 
 I also have the following certifications for the [PEGA](https://www.pega.com/?&utm_source=google&utm_medium=cpc&utm_campaign=Global_Brand_Exact&utm_term=pega%20systems&gloc=9025148&utm_content=pcrid%7c385502811043%7cpkw%7ckwd-299862464821%7cpmt%7ce%7cpdv%7cc%7c&gclid=Cj0KCQjwpZT5BRCdARIsAGEX0zlwEUJ1pHSIwyw83GZ1JUE6MsvC_rgS5LZ5nMBXMs6UlznUQ6ERP54aAqQ2EALw_wcB&gclsrc=aw.ds) Platform.
 
-* **PEGA Certified System Architect (2/2020)**;
-* **PEGA Senior Certified System Architect (3.2020)**;
-* **PEGA Business Architect (4/2020)**;
-* **PEGA Robotics System Architect (5/2020)**;
+* **PEGA Certified System Architect** (2/2020);
+* **PEGA Senior Certified System Architect** (3.2020);
+* **PEGA Business Architect** (4/2020);
+* **PEGA Robotics System Architect** (5/2020);
 
 You can verify these certifications [here](https://academy.pega.com/verify-certification?fname=eric&lname=torres).
 
 Currently, I am honing my skills by acquiring a Certificate in Full Stack Web Development from the University of Texas Austin (focus on JavaScript; MERN stack).
 
-## PORTFOLIO
+## [PORTFOLIO](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html)
 
 This is my [portfolio of projects](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html).
 
@@ -25,15 +25,15 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ### :rainbow: A FEW SAMPLE PROJECTS :rainbow:
 
-[PORTFOLIO EDGE](https://github.com/etorres-revature/Lucky_Mountaineers)
+**[PORTFOLIO EDGE](https://github.com/etorres-revature/Lucky_Mountaineers)**
 
 ![PORTFOLIO EDGE screenshot](https://user-images.githubusercontent.com/59744847/92795196-ce888c80-f375-11ea-93a2-2e42f5c98013.png)
 
-[Weather DashBoard](https://github.com/etorres-revature/Weather_Dashboard)
+**[Weather DashBoard](https://github.com/etorres-revature/Weather_Dashboard)**
 
 ![WEATHER DASHBOARD screenshot](https://user-images.githubusercontent.com/59744847/92795201-cf212300-f375-11ea-9e5e-33754bf26fcb.png)
 
-[JS Code Quiz](https://github.com/etorres-revature/JavaScript_Code_Quiz_Challenge)
+**[JS Code Quiz](https://github.com/etorres-revature/JavaScript_Code_Quiz_Challenge)**
 
 ![JS CODE QUIZ CHALLENGE screenshot](https://user-images.githubusercontent.com/59744847/92795190-cd575f80-f375-11ea-88b8-fccbfe33e9b8.png)
 
@@ -43,17 +43,17 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ### :computer: Technologies Used :computer:
 
-##### * :memo: HTML5 :memo:
-##### * :art: CSS :art:
-##### * :shoe: BOOTSTAP 4 :shoe:
-##### * :cyclone: Tailwind CSS :cyclone:
-##### * :sparkler: JavaScript :sparkler:
-##### * :grey_question: jQuery :grey_question:
-##### * :hourglass: Moment.js :hourglass:
-##### * :chart_with_upwards_trend: Chart.js :chart_with_upwards_trend:
-##### * :movie_camera: HTML5 video element :movie_camera:
-##### * :speech_balloon: Web Speech API :speech_balloon:
-##### * :sound: SpeechRecognition :sound:
+##### * :memo: ***HTML5*** :memo:
+##### * :art: ***CSS*** :art:
+##### * :shoe: ***BOOTSTAP 4*** :shoe:
+##### * :cyclone: ***Tailwind CSS*** :cyclone:
+##### * :sparkler: ***JavaScript*** :sparkler:
+##### * :grey_question: ***jQuery*** :grey_question:
+##### * :hourglass: ***Moment.js*** :hourglass:
+##### * :chart_with_upwards_trend: ***Chart.js*** :chart_with_upwards_trend:
+##### * :movie_camera: ***HTML5 video element*** :movie_camera:
+##### * :speech_balloon: ***Web Speech API*** :speech_balloon:
+##### * :sound: ***SpeechRecognition*** :sound:
 
 ## Author :sunglasses:
 
