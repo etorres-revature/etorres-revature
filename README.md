@@ -9,7 +9,7 @@ My passion is learning about new coding design elements, cutting-edge coding lan
 I also have the following certifications for the [PEGA](https://www.pega.com/?&utm_source=google&utm_medium=cpc&utm_campaign=Global_Brand_Exact&utm_term=pega%20systems&gloc=9025148&utm_content=pcrid%7c385502811043%7cpkw%7ckwd-299862464821%7cpmt%7ce%7cpdv%7cc%7c&gclid=Cj0KCQjwpZT5BRCdARIsAGEX0zlwEUJ1pHSIwyw83GZ1JUE6MsvC_rgS5LZ5nMBXMs6UlznUQ6ERP54aAqQ2EALw_wcB&gclsrc=aw.ds) Platform.
 
 * **PEGA Certified System Architect** (2/2020);
-* **PEGA Senior Certified System Architect** (3.2020);
+* **PEGA Senior Certified System Architect** (3/2020);
 * **PEGA Business Architect** (4/2020);
 * **PEGA Robotics System Architect** (5/2020);
 
