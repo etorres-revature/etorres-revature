@@ -53,7 +53,8 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 | :memo: ***HTML5*** :memo: | :art: ***CSS*** :art: | :shoe: ***BOOTSTAP 4*** :shoe: |
 | :cyclone: ***Tailwind CSS*** :cyclone: |: sparkler: ***JavaScript*** :sparkler: | :grey_question: ***jQuery*** :grey_question: |
 | :hourglass: ***Moment.js*** :hourglass: | :chart_with_upwards_trend: ***Chart.js*** :chart_with_upwards_trend: | :movie_camera: ***HTML5 video element*** :movie_camera:|
-| :speech_balloon: ***Web Speech API*** :speech_balloon: | :sound: ***SpeechRecognition*** :sound: | :globe_with_meridians: ***NODE.js*** :globe_with_meridians: | :satellite: ***Express.js*** :satellite: | :card_index: ***MySQL*** :card_index: | :neckbeard: ***Handlebars*** :neckbeard:
+| :speech_balloon: ***Web Speech API*** :speech_balloon: | :sound: ***SpeechRecognition*** :sound: | :globe_with_meridians: ***NODE.js*** :globe_with_meridians: | 
+| :satellite: ***Express.js*** :satellite: | :card_index: ***MySQL*** :card_index: | :neckbeard: ***Handlebars*** :neckbeard: |
 
 ## Author :sunglasses:
 
