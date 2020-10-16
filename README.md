@@ -25,6 +25,14 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ### :rainbow: A FEW SAMPLE PROJECTS :rainbow:
 
+**[EAT DAT BURGER](https://github.com/etorres-revature/Eat_Dat_Burger)**
+
+![EAT DAT BURGER screenshot](https://user-images.githubusercontent.com/59744847/96275976-077cd800-0f98-11eb-9160-f35cba26b0a7.png)
+
+**[NOTE TAKER](https://github.com/etorres-revature/Express.js-Note_Taker)**
+
+![NOTE TAKER screenshot](https://user-images.githubusercontent.com/59744847/96276425-97228680-0f98-11eb-974b-a87c5707bacb.png)
+
 **[PORTFOLIO EDGE](https://github.com/etorres-revature/Lucky_Mountaineers)**
 
 ![PORTFOLIO EDGE screenshot](https://user-images.githubusercontent.com/59744847/92795196-ce888c80-f375-11ea-93a2-2e42f5c98013.png)
@@ -33,9 +41,6 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ![WEATHER DASHBOARD screenshot](https://user-images.githubusercontent.com/59744847/92795201-cf212300-f375-11ea-9e5e-33754bf26fcb.png)
 
-**[JS Code Quiz](https://github.com/etorres-revature/JavaScript_Code_Quiz_Challenge)**
-
-![JS CODE QUIZ CHALLENGE screenshot](https://user-images.githubusercontent.com/59744847/92795190-cd575f80-f375-11ea-88b8-fccbfe33e9b8.png)
 
 ### :tiger: Connect with me on social media :penguin:
 
@@ -48,7 +53,7 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 | :memo: ***HTML5*** :memo: | :art: ***CSS*** :art: | :shoe: ***BOOTSTAP 4*** :shoe: |
 | :cyclone: ***Tailwind CSS*** :cyclone: |: sparkler: ***JavaScript*** :sparkler: | :grey_question: ***jQuery*** :grey_question: |
 | :hourglass: ***Moment.js*** :hourglass: | :chart_with_upwards_trend: ***Chart.js*** :chart_with_upwards_trend: | :movie_camera: ***HTML5 video element*** :movie_camera:|
-| :speech_balloon: ***Web Speech API*** :speech_balloon: | :sound: ***SpeechRecognition*** :sound: | |
+| :speech_balloon: ***Web Speech API*** :speech_balloon: | :sound: ***SpeechRecognition*** :sound: | :globe_with_meridians: ***NODE.js*** :globe_with_meridians: | :satellite: ***Express.js*** :satellite: | :card_index: ***MySQL*** :card_index: | :neckbeard: ***Handlebars*** :neckbeard:
 
 ## Author :sunglasses:
 
