@@ -27,7 +27,7 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 **[EAT DAT BURGER](https://github.com/etorres-revature/Eat_Dat_Burger)**
 
-![EAT DAT BURGER screenshot](https://user-images.githubusercontent.com/59744847/96275976-077cd800-0f98-11eb-9160-f35cba26b0a7.png)
+![EAT DAT BURGER screenshot](https://user-images.githubusercontent.com/59744847/96521235-711a1200-1236-11eb-9bf7-0dda445c1819.png)
 
 **[NOTE TAKER](https://github.com/etorres-revature/Express.js-Note_Taker)**
 
