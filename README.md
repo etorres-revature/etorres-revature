@@ -27,11 +27,7 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 **[DOCKET MASTER](https://github.com/etorres-revature/Docket_Master)**
 
-<<<<<<< HEAD
 ![DOCKET MASTER screenshot](https://user-images.githubusercontent.com/59744847/98450958-fc384a80-2106-11eb-88dd-0588c3788dcf.png)
-=======
-![EAT DAT BURGER screenshot](https://user-images.githubusercontent.com/59744847/96521235-711a1200-1236-11eb-9bf7-0dda445c1819.png)
->>>>>>> 5bdffd6ec93d5f3791ce34b34e91a140c5590a6a
 
 **[EAT DAT BURGER](https://github.com/etorres-revature/Eat_Dat_Burger)**
 
