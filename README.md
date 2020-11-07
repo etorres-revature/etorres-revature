@@ -25,13 +25,13 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ### :rainbow: A FEW SAMPLE PROJECTS :rainbow:
 
+**[DOCKET MASTER](https://github.com/etorres-revature/Docket_Master)**
+
+![DOCKET MASTER screenshot](https://user-images.githubusercontent.com/59744847/98450958-fc384a80-2106-11eb-88dd-0588c3788dcf.png)
+
 **[EAT DAT BURGER](https://github.com/etorres-revature/Eat_Dat_Burger)**
 
 ![EAT DAT BURGER screenshot](https://user-images.githubusercontent.com/59744847/96275976-077cd800-0f98-11eb-9160-f35cba26b0a7.png)
-
-**[NOTE TAKER](https://github.com/etorres-revature/Express.js-Note_Taker)**
-
-![NOTE TAKER screenshot](https://user-images.githubusercontent.com/59744847/96276425-97228680-0f98-11eb-974b-a87c5707bacb.png)
 
 **[PORTFOLIO EDGE](https://github.com/etorres-revature/Lucky_Mountaineers)**
 
