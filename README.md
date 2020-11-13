@@ -2,7 +2,9 @@
 
 ## Welcome to my GitHub profile
 
-I am a journeyman coder with experience coding Java, Object-Oriented Programming, SQL, JavaScript, HTML5, CSS, Bootstrap 4, AWS, and PEGA. Using his foundation of research skills and strong analytical problem solving abilities, he has the ability to learn any coding language quickly.
+I am a journeyman coder with experience coding Java, Object-Oriented Programming, SQL, JavaScript, HTML5, CSS, Bootstrap 4, AWS, jQuery, NODE.js, Express.js, MySQL, Sequelize, and PEGA.
+
+I have a strong foundation of research skills and analytical problem solving abilities, so I am able to learn any coding language quickly.
 
 My passion is learning about new coding design elements, cutting-edge coding languages, and creating logical frameworks for projects from start to finish.
 
@@ -14,8 +16,6 @@ I also have the following certifications for the [PEGA](https://www.pega.com/?&u
 - **PEGA Robotics System Architect** (5/2020);
 
 You can verify these certifications [here](https://academy.pega.com/verify-certification?fname=eric&lname=torres).
-
-Currently, I am honing my skills by acquiring a Certificate in Full Stack Web Development from the University of Texas Austin (focus on JavaScript; MERN stack).
 
 |                                                                       **DEPLOYED APPS**                                                                       |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -63,13 +63,13 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ### :computer: Technologies Used :computer:
 
-|                                                             |                              _Technologies_                               |                                                                  |
-| :---------------------------------------------------------: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------: |
-|                  :memo: **_HTML5_** :memo:                  |                           :art: **_CSS_** :art:                           |                  :shoe: **_BOOTSTAP 4_** :shoe:                  |
-|           :cyclone: **_Tailwind CSS_** :cyclone:            |                  : sparkler: **_JavaScript_** :sparkler:                  |        :grey*question: \*\*\_jQuery*\*\* :grey_question:         |
-|           :hourglass: **_Moment.js_** :hourglass:           | :chart*with_upwards_trend: \*\*\_Chart.js*\*\* :chart_with_upwards_trend: |   :movie*camera: \*\*\_HTML5 video element*\*\* :movie_camera:   |
-| :speech*balloon: \*\*\_Web Speech API*\*\* :speech_balloon: |                  :sound: **_SpeechRecognition_** :sound:                  | :globe*with_meridians: \*\*\_NODE.js*\*\* :globe_with_meridians: |
-|          :satellite: **_Express.js_** :satellite:           |                :card*index: \*\*\_MySQL*\*\* :card_index:                 |             :neckbeard: **_Handlebars_** :neckbeard:             |
+|                                                       |                           _Technologies_                            |                                                            |
+| :---------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------: |
+|               :memo: **_HTML5_** :memo:               |                        :art: **_CSS_** :art:                        |               :shoe: **_BOOTSTAP 4_** :shoe:               |
+|        :cyclone: **_Tailwind CSS_** :cyclone:         |               : sparkler: **_JavaScript_** :sparkler:               |        :grey\*question: **jQuery** :grey_question:         |
+|        :hourglass: **_Moment.js_** :hourglass:        | :chart\*with_upwards_trend: **Chart.js** :chart_with_upwards_trend: |   :movie\*camera: **HTML5 video element** :movie_camera:   |
+| :speech\*balloon: **Web Speech API** :speech_balloon: |               :sound: **_SpeechRecognition_** :sound:               | :globe\*with_meridians: **NODE.js** :globe_with_meridians: |
+|       :satellite: **_Express.js_** :satellite:        |                :card\*index: **MySQL** :card_index:                 |          :neckbeard: **_Handlebars_** :neckbeard:          |
 
 ## Author :sunglasses:
 
