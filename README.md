@@ -17,6 +17,10 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 Currently, I am honing my skills by acquiring a Certificate in Full Stack Web Development from the University of Texas Austin (focus on JavaScript; MERN stack).
 
+## GITHUB STATS
+
+[![ERIC D TORRES github stats](https://github-readme-stats.vercel.app/api?username=etorres-revature)](https://github.com/etorres-revature/github-readme-stats)
+
 ## [PORTFOLIO](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html)
 
 This is my [portfolio of projects](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html).
