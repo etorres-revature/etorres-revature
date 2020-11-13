@@ -19,8 +19,8 @@ Currently, I am honing my skills by acquiring a Certificate in Full Stack Web De
 
 |                                                                       **DEPLOYED APPS**                                                                       |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  _[DOCKET MASTER](https://pure-atoll-36836.herokuapp.com/) -Full stack application for the creation, tracking, and updating of dockets in the court system_   |
-|              _[EAT DAT BURGER](https://hidden-garden-02467.herokuapp.com/) - Burgers are super-YUMMY!! Time to devour some with Eat Dat Burger!_              |
+|  _[DOCKET MASTER](https://pure-atoll-36836.herokuapp.com/)_ - Full stack application for the creation, tracking, and updating of dockets in the court system  |
+|              _[EAT DAT BURGER](https://hidden-garden-02467.herokuapp.com/)_ - Burgers are super-YUMMY!! Time to devour some with Eat Dat Burger!              |
 | _[NOTE TAKER](https://whispering-headland-90384.herokuapp.com/)_ - An app to create, persist, and delete notes for a person trying to stay in-touch on the go |
 |          _[FITNESS TRACKER](https://boiling-ridge-17711.herokuapp.com/?id=5fadf249008b350017ba41e3)_ - An app to track and obtain your fitness goals          |
 |                             _[EXPENSE TRACKER](https://arcane-garden-81125.herokuapp.com/)_ - An app to chart expenses over time                              |
