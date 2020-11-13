@@ -25,6 +25,18 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 |          _[FITNESS TRACKER](https://boiling-ridge-17711.herokuapp.com/?id=5fadf249008b350017ba41e3)_ - An app to track and obtain your fitness goals          |
 |                             _[EXPENSE TRACKER](https://arcane-garden-81125.herokuapp.com/)_ - An app to chart expenses over time                              |
 
+## CONTENTS
+
+* [Welcome](welcome-to-my-github-profile)
+* [Deployed Apps](deployed_apps)
+* [Github Stats](github-stats)
+* [Languages](languages)
+* [Portfolio](portfolio)
+* [Sample Projects](sample_projects)
+* [Social Media](social_media)
+* [Technologies](technologies)
+* [Author](author)
+
 ## GITHUB STATS
 
 [![ERIC D TORRES github stats](https://github-readme-stats.vercel.app/api?username=etorres-revature)](https://github.com/etorres-revature/github-readme-stats)
@@ -39,7 +51,7 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ![PORTFOLIO screenshot](https://user-images.githubusercontent.com/59744847/92795207-d0525000-f375-11ea-92bb-d56d1f33b2bb.png)
 
-### :rainbow: A FEW SAMPLE PROJECTS :rainbow:
+### SAMPLE PROJECTS 
 
 **[DOCKET MASTER](https://github.com/etorres-revature/Docket_Master)**
 
@@ -57,11 +69,13 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ![WEATHER DASHBOARD screenshot](https://user-images.githubusercontent.com/59744847/92795201-cf212300-f375-11ea-9e5e-33754bf26fcb.png)
 
-### :tiger: Connect with me on social media :penguin:
+### SOCIAL MEDIA
 
-<a href="https://github.com/etorres-revature" alt="Eric D. Torres | GitHub"><img src="https://user-images.githubusercontent.com/59744847/92795129-c29cca80-f375-11ea-9f74-008d87a435f2.png" height="35px" width="35px"/></a> <a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img src="https://user-images.githubusercontent.com/59744847/92795155-c7fa1500-f375-11ea-805c-14f3234feef8.png" height="35px" width="35px"/></a>
+:tiger: <a href="https://github.com/etorres-revature" alt="Eric D. Torres | GitHub"><img src="https://user-images.githubusercontent.com/59744847/92795129-c29cca80-f375-11ea-9f74-008d87a435f2.png" height="35px" width="35px"/></a> :tiger: | :penguin: <a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img src="https://user-images.githubusercontent.com/59744847/92795155-c7fa1500-f375-11ea-805c-14f3234feef8.png" height="35px" width="35px"/></a> :penguin:
 
-### :computer: Technologies Used :computer:
+### TECHNOLOGIES 
+
+:computer: :computer: :computer: :computer: :computer: :computer: :computer: :computer:
 
 |                                                       |                           _Technologies_                            |                                                            |
 | :---------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------: |
@@ -71,8 +85,8 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 | :speech_balloon: **Web Speech API** :speech_balloon:  |               :sound: **_SpeechRecognition_** :sound:               | :globe_with_meridians: **NODE.js** :globe_with_meridians:  |
 |       :satellite: **_Express.js_** :satellite:        |                :card_index: **MySQL** :card_index:                  |          :neckbeard: **_Handlebars_** :neckbeard:          |
 
-## Author :sunglasses:
+## AUTHOR :sunglasses:
 
 Content and design created by :green_heart: Eric D. Torres :green_heart:.
 
-The author can be reached at etorresnotary@gmail.com.
+I be reached at etorresnotary@gmail.com.
