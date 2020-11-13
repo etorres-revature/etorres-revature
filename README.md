@@ -27,15 +27,15 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 ## CONTENTS
 
-* [Welcome](welcome-to-my-github-profile)
-* [Deployed Apps](deployed_apps)
-* [Github Stats](github-stats)
-* [Languages](languages)
-* [Portfolio](portfolio)
-* [Sample Projects](sample_projects)
-* [Social Media](social_media)
-* [Technologies](technologies)
-* [Author](author)
+* [Welcome](#welcome-to-my-github-profile)
+* [Deployed Apps](#deployed_apps)
+* [Github Stats](#github-stats)
+* [Languages](#languages)
+* [Portfolio](#portfolio)
+* [Sample Projects](#sample_projects)
+* [Social Media](#social_media)
+* [Technologies](#technologies)
+* [Author](#author)
 
 ## GITHUB STATS
 
