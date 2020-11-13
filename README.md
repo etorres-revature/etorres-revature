@@ -41,11 +41,11 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 ## GITHUB STATS
 
-[![ERIC D TORRES github stats](https://github-readme-stats.vercel.app/api?username=etorres-revature)](https://github.com/etorres-revature/github-readme-stats)
+![ERIC D TORRES github stats](https://github-readme-stats.vercel.app/api?username=etorres-revature)
 
 ## LANGUAGES
 
-[![ERIC D TORRES languages used](https://github-readme-stats.vercel.app/api/top-langs?username=etorres-revature)](https://github.com/etorres-revature/github-readme-stats)
+![ERIC D TORRES languages used](https://github-readme-stats.vercel.app/api/top-langs?username=etorres-revature)
 
 ## [PORTFOLIO](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html)
 
