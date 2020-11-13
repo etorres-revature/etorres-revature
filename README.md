@@ -32,8 +32,8 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 * [Github Stats](#github-stats)
 * [Languages](#languages)
 * [Portfolio](#portfolio)
-* [Sample Projects](#sample_projects)
-* [Social Media](#social_media)
+* [Sample Projects](#sample-projects)
+* [Social Media](#social-media)
 * [Technologies](#technologies)
 * [Author](#author)
 
@@ -85,7 +85,8 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 | :speech_balloon: **Web Speech API** :speech_balloon:  |               :sound: **_SpeechRecognition_** :sound:               | :globe_with_meridians: **NODE.js** :globe_with_meridians:  |
 |       :satellite: **_Express.js_** :satellite:        |                :card_index: **MySQL** :card_index:                  |          :neckbeard: **_Handlebars_** :neckbeard:          |
 
-## AUTHOR :sunglasses:
+## AUTHOR 
+:sunglasses:
 
 Content and design created by :green_heart: Eric D. Torres :green_heart:.
 
