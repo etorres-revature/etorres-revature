@@ -45,7 +45,7 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 ## LANGUAGES
 
-![ERIC D TORRES languages used](https://github-readme-stats.vercel.app/api/top-langs?username=etorres-revature&theme=chartreuse-dark)
+![ERIC D TORRES languages used](https://github-readme-stats.vercel.app/api/top-langs?username=etorres-revature&theme=gotham)
 
 ## [PORTFOLIO](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html)
 
