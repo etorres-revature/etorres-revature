@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile
 
-I am a journeyman coder with experience coding Java, Object-Oriented Programming, SQL, JavaScript, HTML5, CSS, Bootstrap 4, AWS, jQuery, NODE.js, Express.js, MySQL, Sequelize, and PEGA.
+I am a journeyman coder with experience coding **Java, Object-Oriented Programming, SQL, JavaScript, HTML5, CSS, Bootstrap 4, AWS, jQuery, NODE.js, Express.js, MySQL, Sequelize, and PEGA**.
 
 I have a strong foundation of research skills and analytical problem solving abilities, so I am able to learn any coding language quickly.
 
