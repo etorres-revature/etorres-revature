@@ -17,9 +17,7 @@ I also have the following certifications for the [PEGA](https://www.pega.com/?&u
 
 You can verify these certifications [here](https://academy.pega.com/verify-certification?fname=eric&lname=torres).
 
-## DEPLOYED APPS
-
-|                                                                       **Deployed Apps**                                                                       |
+|                                                                       **DEPLOYED APPS**                                                                       |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  _[DOCKET MASTER](https://pure-atoll-36836.herokuapp.com/)_ - Full stack application for the creation, tracking, and updating of dockets in the court system  |
 |              _[EAT DAT BURGER](https://hidden-garden-02467.herokuapp.com/)_ - Burgers are super-YUMMY!! Time to devour some with Eat Dat Burger!              |
@@ -30,7 +28,7 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 ## CONTENTS
 
 * [Welcome](#welcome-to-my-github-profile)
-* [Deployed Apps](#deployed_apps)
+* [Deployed Apps](#deployed-apps)
 * [Github Stats](#github-stats)
 * [Languages](#languages)
 * [Portfolio](#portfolio)
