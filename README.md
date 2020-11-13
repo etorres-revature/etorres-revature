@@ -21,6 +21,10 @@ Currently, I am honing my skills by acquiring a Certificate in Full Stack Web De
 
 [![ERIC D TORRES github stats](https://github-readme-stats.vercel.app/api?username=etorres-revature)](https://github.com/etorres-revature/github-readme-stats)
 
+## LANGUAGES
+
+[![ERIC D TORRES languages used](https://github-readme-stats.vercel.app/api/top-langs?username=etorres-revature)](https://github.com/etorres-revature/github-readme-stats)
+
 ## [PORTFOLIO](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html)
 
 This is my [portfolio of projects](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html).
