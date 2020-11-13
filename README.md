@@ -17,13 +17,13 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 Currently, I am honing my skills by acquiring a Certificate in Full Stack Web Development from the University of Texas Austin (focus on JavaScript; MERN stack).
 
-|                                      **DEPLOYED APPS**                                      |
-| :-----------------------------------------------------------------------------------------: |
-|                 _[DOCKET MASTER](https://pure-atoll-36836.herokuapp.com/)_                  |
-|               _[EAT DAT BURGER](https://hidden-garden-02467.herokuapp.com/)_                |
-|              _[NOTE TAKER](https://whispering-headland-90384.herokuapp.com/)_               |
-| _[FITNESS TRACKER](https://boiling-ridge-17711.herokuapp.com/?id=5fadf249008b350017ba41e3)_ |
-|               _[EXPENSE TRACKER](https://arcane-garden-81125.herokuapp.com/)_               |
+|                                                                       **DEPLOYED APPS**                                                                       |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  _[DOCKET MASTER](https://pure-atoll-36836.herokuapp.com/) -Full stack application for the creation, tracking, and updating of dockets in the court system_   |
+|              _[EAT DAT BURGER](https://hidden-garden-02467.herokuapp.com/) - Burgers are super-YUMMY!! Time to devour some with Eat Dat Burger!_              |
+| _[NOTE TAKER](https://whispering-headland-90384.herokuapp.com/)_ - An app to create, persist, and delete notes for a person trying to stay in-touch on the go |
+|          _[FITNESS TRACKER](https://boiling-ridge-17711.herokuapp.com/?id=5fadf249008b350017ba41e3)_ - An app to track and obtain your fitness goals          |
+|                             _[EXPENSE TRACKER](https://arcane-garden-81125.herokuapp.com/)_ - An app to chart expenses over time                              |
 
 ## GITHUB STATS
 
@@ -63,13 +63,13 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ### :computer: Technologies Used :computer:
 
-|                                                        |                            _Technologies_                            |                                                             |
-| :----------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------------------------------: |
-|               :memo: **_HTML5_** :memo:                |                        :art: **_CSS_** :art:                         |               :shoe: **_BOOTSTAP 4_** :shoe:                |
-|         :cyclone: **_Tailwind CSS_** :cyclone:         |               : sparkler: **_JavaScript_** :sparkler:                |        :grey_question: **_jQuery_** :grey_question:         |
-|        :hourglass: **_Moment.js_** :hourglass:         | :chart_with_upwards_trend: **_Chart.js_** :chart_with_upwards_trend: |   :movie_camera: **_HTML5 video element_** :movie_camera:   |
-| :speech_balloon: **_Web Speech API_** :speech_balloon: |               :sound: **_SpeechRecognition_** :sound:                | :globe_with_meridians: **_NODE.js_** :globe_with_meridians: |
-|        :satellite: **_Express.js_** :satellite:        |                :card_index: **_MySQL_** :card_index:                 |          :neckbeard: **_Handlebars_** :neckbeard:           |
+|                                                             |                              _Technologies_                               |                                                                  |
+| :---------------------------------------------------------: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------: |
+|                  :memo: **_HTML5_** :memo:                  |                           :art: **_CSS_** :art:                           |                  :shoe: **_BOOTSTAP 4_** :shoe:                  |
+|           :cyclone: **_Tailwind CSS_** :cyclone:            |                  : sparkler: **_JavaScript_** :sparkler:                  |        :grey*question: \*\*\_jQuery*\*\* :grey_question:         |
+|           :hourglass: **_Moment.js_** :hourglass:           | :chart*with_upwards_trend: \*\*\_Chart.js*\*\* :chart_with_upwards_trend: |   :movie*camera: \*\*\_HTML5 video element*\*\* :movie_camera:   |
+| :speech*balloon: \*\*\_Web Speech API*\*\* :speech_balloon: |                  :sound: **_SpeechRecognition_** :sound:                  | :globe*with_meridians: \*\*\_NODE.js*\*\* :globe_with_meridians: |
+|          :satellite: **_Express.js_** :satellite:           |                :card*index: \*\*\_MySQL*\*\* :card_index:                 |             :neckbeard: **_Handlebars_** :neckbeard:             |
 
 ## Author :sunglasses:
 
