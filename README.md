@@ -41,7 +41,7 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 ## GITHUB STATS
 
-![ERIC D TORRES github stats](https://github-readme-stats.vercel.app/api?username=etorres-revature)
+![ERIC D TORRES github stats](https://github-readme-stats.vercel.app/api?username=etorres-revature&theme=chartreuse-dark)
 
 ## LANGUAGES
 
