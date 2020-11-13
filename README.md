@@ -66,10 +66,10 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 |                                                       |                           _Technologies_                            |                                                            |
 | :---------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------: |
 |               :memo: **_HTML5_** :memo:               |                        :art: **_CSS_** :art:                        |               :shoe: **_BOOTSTAP 4_** :shoe:               |
-|        :cyclone: **_Tailwind CSS_** :cyclone:         |               : sparkler: **_JavaScript_** :sparkler:               |        :grey\*question: **jQuery** :grey_question:         |
-|        :hourglass: **_Moment.js_** :hourglass:        | :chart\*with_upwards_trend: **Chart.js** :chart_with_upwards_trend: |   :movie\*camera: **HTML5 video element** :movie_camera:   |
-| :speech\*balloon: **Web Speech API** :speech_balloon: |               :sound: **_SpeechRecognition_** :sound:               | :globe\*with_meridians: **NODE.js** :globe_with_meridians: |
-|       :satellite: **_Express.js_** :satellite:        |                :card\*index: **MySQL** :card_index:                 |          :neckbeard: **_Handlebars_** :neckbeard:          |
+|        :cyclone: **_Tailwind CSS_** :cyclone:         |               : sparkler: **_JavaScript_** :sparkler:               |        :grey_question: **jQuery** :grey_question:          |
+|        :hourglass: **_Moment.js_** :hourglass:        | :chart_with_upwards_trend: **Chart.js** :chart_with_upwards_trend:  |   :movie_camera: **HTML5 video element** :movie_camera:    |
+| :speech_balloon: **Web Speech API** :speech_balloon:  |               :sound: **_SpeechRecognition_** :sound:               | :globe_with_meridians: **NODE.js** :globe_with_meridians:  |
+|       :satellite: **_Express.js_** :satellite:        |                :card_index: **MySQL** :card_index:                  |          :neckbeard: **_Handlebars_** :neckbeard:          |
 
 ## Author :sunglasses:
 
