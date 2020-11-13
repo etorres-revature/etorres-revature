@@ -19,7 +19,7 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 ## DEPLOYED APPS
 
-|                                                                       **Deployed Applications**                                                                       |
+|                                                                   **Deployed Applications**                                                                   |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  _[DOCKET MASTER](https://pure-atoll-36836.herokuapp.com/)_ - Full stack application for the creation, tracking, and updating of dockets in the court system  |
 |              _[EAT DAT BURGER](https://hidden-garden-02467.herokuapp.com/)_ - Burgers are super-YUMMY!! Time to devour some with Eat Dat Burger!              |
@@ -29,15 +29,15 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 ## CONTENTS
 
-* [Welcome](#welcome-to-my-github-profile)
-* [Deployed Apps](#deployed-apps)
-* [Github Stats](#github-stats)
-* [Languages](#languages)
-* [Portfolio](#portfolio)
-* [Sample Projects](#sample-projects)
-* [Social Media](#social-media)
-* [Technologies](#technologies)
-* [Author](#author)
+- [Welcome](#welcome-to-my-github-profile)
+- [Deployed Apps](#deployed-apps)
+- [Github Stats](#github-stats)
+- [Languages](#languages)
+- [Portfolio](#portfolio)
+- [Sample Projects](#sample-projects)
+- [Social Media](#social-media)
+- [Technologies](#technologies)
+- [Author](#author)
 
 ## GITHUB STATS
 
@@ -53,7 +53,7 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 ![PORTFOLIO screenshot](https://user-images.githubusercontent.com/59744847/92795207-d0525000-f375-11ea-92bb-d56d1f33b2bb.png)
 
-### SAMPLE PROJECTS 
+### SAMPLE PROJECTS
 
 **[DOCKET MASTER](https://github.com/etorres-revature/Docket_Master)**
 
@@ -75,21 +75,20 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 
 :tiger: <a href="https://github.com/etorres-revature" alt="Eric D. Torres | GitHub"><img src="https://user-images.githubusercontent.com/59744847/92795129-c29cca80-f375-11ea-9f74-008d87a435f2.png" height="35px" width="35px"/></a> :tiger: | :penguin: <a href="https://www.linkedin.com/in/ericdtorres/" alt="Eric D. Torres | LinkedIn"><img src="https://user-images.githubusercontent.com/59744847/92795155-c7fa1500-f375-11ea-805c-14f3234feef8.png" height="35px" width="35px"/></a> :penguin:
 
-### TECHNOLOGIES 
+### TECHNOLOGIES
 
 :computer: :computer: :computer: :computer: :computer: :computer: :computer: :computer:
 
-|                                                       |                           _Technologies_                            |                                                            |
-| :---------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------: |
-|               :memo: **_HTML5_** :memo:               |                        :art: **_CSS_** :art:                        |               :shoe: **_BOOTSTAP 4_** :shoe:               |
-|        :cyclone: **_Tailwind CSS_** :cyclone:         |               :sparkler: **_JavaScript_** :sparkler:                |        :grey_question: **jQuery** :grey_question:          |
-|        :hourglass: **_Moment.js_** :hourglass:        | :chart_with_upwards_trend: **Chart.js** :chart_with_upwards_trend:  |   :movie_camera: **HTML5 video element** :movie_camera:    |
-| :speech_balloon: **Web Speech API** :speech_balloon:  |               :sound: **_SpeechRecognition_** :sound:               | :globe_with_meridians: **NODE.js** :globe_with_meridians:  |
-|       :satellite: **_Express.js_** :satellite:        |                :card_index: **MySQL** :card_index:                  |          :neckbeard: **_Handlebars_** :neckbeard:          |
+|                                                      |                           _Technologies_                           |                                                           |
+| :--------------------------------------------------: | :----------------------------------------------------------------: | :-------------------------------------------------------: |
+|              :memo: **_HTML5_** :memo:               |                       :art: **_CSS_** :art:                        |              :shoe: **_BOOTSTAP 4_** :shoe:               |
+|        :cyclone: **_Tailwind CSS_** :cyclone:        |               :sparkler: **_JavaScript_** :sparkler:               |        :grey_question: **jQuery** :grey_question:         |
+|       :hourglass: **_Moment.js_** :hourglass:        | :chart_with_upwards_trend: **Chart.js** :chart_with_upwards_trend: |   :movie_camera: **HTML5 video element** :movie_camera:   |
+| :speech_balloon: **Web Speech API** :speech_balloon: |              :sound: **_SpeechRecognition_** :sound:               | :globe_with_meridians: **NODE.js** :globe_with_meridians: |
+|       :satellite: **_Express.js_** :satellite:       |                :card_index: **MySQL** :card_index:                 |         :neckbeard: **_Handlebars_** :neckbeard:          |
 
-## AUTHOR 
-:sunglasses:
+## AUTHOR
 
-Content and design created by :green_heart: Eric D. Torres :green_heart:.
+Content and design created by :green_heart: Eric D. Torres :sunglasses:.
 
 I be reached at etorresnotary@gmail.com.
