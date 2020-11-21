@@ -86,7 +86,7 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 |       :hourglass: **_Moment.js_** :hourglass:        | :chart_with_upwards_trend: **Chart.js** :chart_with_upwards_trend: |   :movie_camera: **HTML5 video element** :movie_camera:   |
 | :speech_balloon: **Web Speech API** :speech_balloon: |              :sound: **_SpeechRecognition_** :sound:               | :globe_with_meridians: **NODE.js** :globe_with_meridians: |
 |       :satellite: **_Express.js_** :satellite:       |                :card_index: **MySQL** :card_index:                 |         :neckbeard: **_Handlebars_** :neckbeard:          |
-|       :japanese_ogre: MongoDB :japanese_ogre:        |             :school_satchel: Webpack :school_satchel:              |         :school_satchel: Webpack :school_satchel:         |
+|       :japanese_ogre: MongoDB :japanese_ogre:        |                :card_index: IndexedDB :card_index:                 |         :school_satchel: Webpack :school_satchel:         |
 
 ## AUTHOR
 
