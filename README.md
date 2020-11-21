@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile
 
-I am a journeyman coder with experience coding **Java, Object-Oriented Programming, SQL, JavaScript, HTML5, CSS, Bootstrap 4, AWS, jQuery, NODE.js, Express.js, MySQL, Sequelize, and PEGA**.
+I am a journeyman coder with experience coding **Java, Object-Oriented Programming, SQL, JavaScript, HTML5, CSS, Bootstrap 4, AWS, jQuery, NODE.js, Express.js, MySQL, Sequelize, MongoDB, Webpack, React.js and PEGA**.
 
 I have a strong foundation of research skills and analytical problem solving abilities, so I am able to learn any coding language quickly.
 
@@ -86,6 +86,7 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Responsive
 |       :hourglass: **_Moment.js_** :hourglass:        | :chart_with_upwards_trend: **Chart.js** :chart_with_upwards_trend: |   :movie_camera: **HTML5 video element** :movie_camera:   |
 | :speech_balloon: **Web Speech API** :speech_balloon: |              :sound: **_SpeechRecognition_** :sound:               | :globe_with_meridians: **NODE.js** :globe_with_meridians: |
 |       :satellite: **_Express.js_** :satellite:       |                :card_index: **MySQL** :card_index:                 |         :neckbeard: **_Handlebars_** :neckbeard:          |
+|       :japanese_ogre: MongoDB :japanese_ogre:        |             :school_satchel: Webpack :school_satchel:              |         :school_satchel: Webpack :school_satchel:         |
 
 ## AUTHOR
 
