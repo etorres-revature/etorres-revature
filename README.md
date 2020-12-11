@@ -47,11 +47,11 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 ![ERIC D TORRES languages used](https://github-readme-stats.vercel.app/api/top-langs?username=etorres-revature&theme=chartreuse-dark)
 
-## [PORTFOLIO](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html)
+## [PORTFOLIO](https://etorres-revature.github.io/Portfolio/)
 
-This is my [portfolio of projects](https://etorres-revature.github.io/Responsive_Portfolio/portfolio.html).
+This is my [portfolio of projects](https://etorres-revature.github.io/Portfolio/).
 
-![PORTFOLIO screenshot](https://user-images.githubusercontent.com/59744847/92795207-d0525000-f375-11ea-92bb-d56d1f33b2bb.png)
+![PORTFOLIO screenshot](https://user-images.githubusercontent.com/59744847/101962199-203cef00-3bd1-11eb-81da-65ba9fb6823f.png)
 
 ### SAMPLE PROJECTS
 
