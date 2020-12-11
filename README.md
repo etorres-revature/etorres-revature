@@ -49,7 +49,7 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 ## [PORTFOLIO](https://etorres-revature.github.io/Portfolio/)
 
-This is my [portfolio of projects](https://etorres-revature.github.io/Portfolio/).
+This is my [portfolio of projects](https://etorres-revature.github.io/projects).
 
 ![PORTFOLIO screenshot](https://user-images.githubusercontent.com/59744847/101962199-203cef00-3bd1-11eb-81da-65ba9fb6823f.png)
 
