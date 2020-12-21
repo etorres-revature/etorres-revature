@@ -71,7 +71,7 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Portfolio/
 
 ![GITHUB FINDER screenshot](https://user-images.githubusercontent.com/59744847/102742870-a8329f80-431b-11eb-9c6e-1b4566c27177.png)
 
-[Github Finder repo](https://etorres-revature.github.io/Github_Finder/)
+[Github Finder repo](https://github.com/etorres-revature/Github_Finder)
 
 **[PORTFOLIO EDGE](https://etorres-revature.github.io/Lucky_Mountaineers/)**
 
