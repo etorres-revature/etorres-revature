@@ -77,13 +77,13 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Portfolio/
 
 ![PORTFOLIO EDGE screenshot](https://user-images.githubusercontent.com/59744847/92795196-ce888c80-f375-11ea-93a2-2e42f5c98013.png)
 
-[Portfolio Edge repo]()
+[Portfolio Edge repo](https://github.com/etorres-revature/Lucky_Mountaineers)
 
 **[WEATHER DASHBOARD](https://github.com/etorres-revature/Weather_Dashboard)**
 
 ![WEATHER DASHBOARD screenshot](https://user-images.githubusercontent.com/59744847/92795201-cf212300-f375-11ea-9e5e-33754bf26fcb.png)
 
-[Weather Dashboard repo]()
+[Weather Dashboard repo](https://github.com/etorres-revature/Weather_Dashboard)
 
 ### SOCIAL MEDIA
 
