@@ -21,6 +21,8 @@ You can verify these certifications [here](https://academy.pega.com/verify-certi
 
 |                                                                   **Deployed Applications**                                                                   |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         _[GOOGLE BOOKS API SEARCH](https://lit-citadel-69293.herokuapp.com/)_ - MERN full-stack application for searching and saving book information         |
+|                       _[GITHUB FINDER](https://enigmatic-ocean-42815.herokuapp.com/)_ - An app for searching github usernames/accounts                        |
 |  _[DOCKET MASTER](https://pure-atoll-36836.herokuapp.com/)_ - Full stack application for the creation, tracking, and updating of dockets in the court system  |
 |              _[EAT DAT BURGER](https://hidden-garden-02467.herokuapp.com/)_ - Burgers are super-YUMMY!! Time to devour some with Eat Dat Burger!              |
 | _[NOTE TAKER](https://whispering-headland-90384.herokuapp.com/)_ - An app to create, persist, and delete notes for a person trying to stay in-touch on the go |
