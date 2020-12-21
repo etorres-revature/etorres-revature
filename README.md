@@ -55,7 +55,7 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Portfolio/
 
 ### SAMPLE PROJECTS
 
-**[DOCKET MASTER](https://github.com/etorres-revature/Docket_Master)**
+**[DOCKET MASTER](https://pure-atoll-36836.herokuapp.com/)**
 
 ![DOCKET MASTER screenshot](https://user-images.githubusercontent.com/59744847/98450958-fc384a80-2106-11eb-88dd-0588c3788dcf.png)
 
@@ -73,13 +73,13 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Portfolio/
 
 [Github Finder repo](https://etorres-revature.github.io/Github_Finder/)
 
-**[PORTFOLIO EDGE](https://github.com/etorres-revature/Lucky_Mountaineers)**
+**[PORTFOLIO EDGE](https://etorres-revature.github.io/Lucky_Mountaineers/)**
 
 ![PORTFOLIO EDGE screenshot](https://user-images.githubusercontent.com/59744847/92795196-ce888c80-f375-11ea-93a2-2e42f5c98013.png)
 
 [Portfolio Edge repo](https://github.com/etorres-revature/Lucky_Mountaineers)
 
-**[WEATHER DASHBOARD](https://github.com/etorres-revature/Weather_Dashboard)**
+**[WEATHER DASHBOARD](https://etorres-revature.github.io/Weather_Dashboard/)**
 
 ![WEATHER DASHBOARD screenshot](https://user-images.githubusercontent.com/59744847/92795201-cf212300-f375-11ea-9e5e-33754bf26fcb.png)
 
