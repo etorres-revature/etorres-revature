@@ -59,17 +59,31 @@ This is my [portfolio of projects](https://etorres-revature.github.io/Portfolio/
 
 ![DOCKET MASTER screenshot](https://user-images.githubusercontent.com/59744847/98450958-fc384a80-2106-11eb-88dd-0588c3788dcf.png)
 
-**[EAT DAT BURGER](https://github.com/etorres-revature/Eat_Dat_Burger)**
+[Docket Master repo](https://github.com/etorres-revature/Docket_Master)
 
-![EAT DAT BURGER screenshot](https://user-images.githubusercontent.com/59744847/96275976-077cd800-0f98-11eb-9160-f35cba26b0a7.png)
+**[GOOGLE BOOKS API SEARCH](https://lit-citadel-69293.herokuapp.com/)**
+
+![GOOGLE BOOKS API SEARCH screenshot](https://user-images.githubusercontent.com/59744847/102742878-acf75380-431b-11eb-812b-515e912dbd2b.png)
+
+[Google Books API repo](https://github.com/etorres-revature/React-Google_Books)
+
+**[GITHUB FINDER](https://enigmatic-ocean-42815.herokuapp.com/)**
+
+![GITHUB FINDER screenshot](https://user-images.githubusercontent.com/59744847/102742870-a8329f80-431b-11eb-9c6e-1b4566c27177.png)
+
+[Github Finder repo](https://etorres-revature.github.io/Github_Finder/)
 
 **[PORTFOLIO EDGE](https://github.com/etorres-revature/Lucky_Mountaineers)**
 
 ![PORTFOLIO EDGE screenshot](https://user-images.githubusercontent.com/59744847/92795196-ce888c80-f375-11ea-93a2-2e42f5c98013.png)
 
+[Portfolio Edge repo]()
+
 **[WEATHER DASHBOARD](https://github.com/etorres-revature/Weather_Dashboard)**
 
 ![WEATHER DASHBOARD screenshot](https://user-images.githubusercontent.com/59744847/92795201-cf212300-f375-11ea-9e5e-33754bf26fcb.png)
+
+[Weather Dashboard repo]()
 
 ### SOCIAL MEDIA
 
